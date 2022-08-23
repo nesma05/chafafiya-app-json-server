@@ -1,0 +1,282 @@
+{
+  "administrations": [
+    {
+      "id": "1079",
+      "denomination": "وزارة الشؤون الخارجية والتعاون الإفريقي والمغاربة المقيمين بالخارج",
+      "externe": "0",
+      "lang": "ar",
+      "categorie": 2
+    },
+    {
+      "id": "306",
+      "denomination": "وزارة العدل",
+      "externe": "0",
+      "lang": "ar",
+      "categorie": 2
+    },
+    {
+      "id": "18",
+      "denomination": "وزارة الاوقاف والشؤون الاسلامية",
+      "externe": "0",
+      "lang": "ar",
+      "categorie": 2
+    }
+  ],
+  "institutions": [
+    {
+      "id": "1009",
+      "denomination": "الأكاديمية الجهوية للتربية والتكوين الداخلة-وادي الذهب",
+      "externe": "0",
+      "categorie": 3
+    },
+    {
+      "id": "1019",
+      "denomination": " الأكاديمية الجهوية للتربية والتكوين لجهة الدار البيضاء-سطات",
+      "externe": "0",
+      "categorie": 3
+    },
+    {
+      "id": "1022",
+      "denomination": " الأكاديمية الجهوية للتربية والتكوين لجهة الرباط-سلا-القنيطرة",
+      "externe": "0",
+      "categorie": 3
+    }
+  ],
+  "regions": [
+    {
+      "identifiant": "110",
+      "nom": "سوس-ماسة",
+      "nombre_administrations": "182",
+      "categorie": "1"
+    },
+    {
+      "identifiant": "111",
+      "nom": "الدار البيضاء-سطات",
+      "nombre_administrations": "163",
+      "categorie": "1"
+    },
+    {
+      "identifiant": "112",
+      "nom": "كلميم-واد نون",
+      "nombre_administrations": "58",
+      "categorie": "1"
+    }
+  ],
+
+  "subAdministrations": [
+    {
+      "id": "26",
+      "denomination": "مديرية الاوقاف",
+      "idOrg": "18",
+      "niveau": "0"
+    },
+    {
+      "id": "22",
+      "denomination": "مديرية التعليم العتيق و محو الامية بالمساجد",
+      "idOrg": "18",
+      "niveau": "0"
+    },
+    {
+      "id": "23",
+      "denomination": "مديرية الشؤون الادارية والتعاون",
+      "idOrg": "18",
+      "niveau": "0"
+    },
+    {
+      "id": "37",
+      "denomination": "المندوبية الجهوية للشؤون الإسلامية لجهة الداخلة وادي الذهب",
+      "idOrg": "18",
+      "niveau": "1"
+    },
+    {
+      "id": "889",
+      "denomination": "المندوبية الجهوية للشؤون الإسلامية لجهة العيون  الساقية الحمراء",
+      "idOrg": "18",
+      "niveau": "1"
+    },
+    {
+      "id": "39",
+      "denomination": "المندوبية الجهوية للشؤون الإسلامية لجهة درعة- تافيلالت",
+      "idOrg": "18",
+      "niveau": "1"
+    },
+    {
+      "id": "125",
+      "denomination": "المندوبية الإقليمية للشؤون الإسلامية بالحسيمة",
+      "idOrg": "18",
+      "niveau": "2"
+    },
+    {
+      "id": "126",
+      "denomination": "المندوبية الإقليمية للشؤون الإسلامية بالفحص أنجرة",
+      "idOrg": "18",
+      "niveau": "2"
+    },
+    {
+      "id": "127",
+      "denomination": "المندوبية الإقليمية للشؤون الإسلامية بشفشاون",
+      "idOrg": "18",
+      "niveau": "2"
+    },
+    {
+      "id": "1080",
+      "denomination": " قطاع المغاربة المقيمين بالخارج ",
+      "idOrg": "1079",
+      "niveau": "0"
+    },
+    {
+      "id": "6020",
+      "denomination": "مديرية التعاون والتنمية الاقتصادية",
+      "idOrg": "1079",
+      "niveau": "0"
+    },
+    {
+      "id": "6019",
+      "denomination": "مديرية الشؤون القنصلية والاجتماعية",
+      "idOrg": "1079",
+      "niveau": "0"
+    },
+    {
+      "id": "1021",
+      "denomination": " الأكاديمية الجهوية للتربية والتكوين لجهة الدار البيضاء-سطات",
+      "idOrg": "1019",
+      "niveau": "0"
+    },
+    {
+      "id": "1024",
+      "denomination": " الأكاديمية الجهوية للتربية والتكوين لجهة الرباط-سلا-القنيطرة",
+      "idOrg": "1022",
+      "niveau": "0"
+    }
+  ],
+  "subRegions":[
+    {
+      "id": "492",
+      "denomination": "طاطا",
+      "nombre_administrations": "21",
+      "categorie": "1",
+      "region":"110"
+    },
+    {
+      "id": "529",
+      "denomination": "تزنيت",
+      "nombre_administrations": "26",
+      "categorie": "1",
+      "region":"110"
+    },
+    {
+      "id": "525",
+      "denomination": "إنزكان-ايت ملول",
+      "nombre_administrations": "7",
+      "categorie": "1",
+      "region":"110"
+    },
+    {
+      "id": "472",
+      "denomination": "بنسليمان",
+      "nombre_administrations": "16",
+      "categorie": "1",
+       "region":"111"
+    },
+    {
+      "id": "473",
+      "denomination": "سطات",
+      "nombre_administrations": "47",
+      "categorie": "1",
+       "region":"111"
+    },
+    {
+      "id": "475",
+      "denomination": "برشيد",
+      "nombre_administrations": "23",
+      "categorie": "1",
+       "region":"111"
+    }
+  ],
+  "provinces":[
+    {
+      "id": "2001",
+      "denomination": " جماعة آملن",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"529"
+    },
+    {
+      "id": "2046",
+      "denomination": " جماعة أربعاء  رسموكة",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"529"
+    },
+    {
+      "id": "2031",
+      "denomination": " جماعة أربعاء أيت أحمد",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"529"
+    },
+    {
+      "id": "3240",
+      "denomination": " جماعة أديس",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"492"
+    },
+    {
+      "id": "3255",
+      "denomination": " جماعة أكينان",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"492"
+    },
+    {
+      "id": "3237",
+      "denomination": " جماعة أم الكردان",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"492"
+    },
+    {
+      "id": "5493",
+      "denomination": " جماعة أولاد علي منصور",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"472"
+    },
+    {
+      "id": "5484",
+      "denomination": " جماعة احلاف",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"472"
+    },
+    {
+      "id": "5487",
+      "denomination": " جماعة الردادنة أولاد مالك",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"472"
+    },
+    {
+      "id": "5328",
+      "denomination": " جماعة أولاد افريحة",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"473"
+    },
+    {
+      "id": "5346",
+      "denomination": " جماعة أولاد الصغير",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"473"
+    },
+    {
+      "id": "5262",
+      "denomination": " جماعة أولاد امحمد",
+      "externe": "0",
+      "categorie": null,
+      "subRegion":"473"
+    }
+  ]
+}
