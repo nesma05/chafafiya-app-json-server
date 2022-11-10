@@ -149,134 +149,195 @@
       "niveau": "0"
     }
   ],
-  "subRegions":[
+  "subRegions": [
     {
       "id": "492",
       "denomination": "طاطا",
       "nombre_administrations": "21",
       "categorie": "1",
-      "region":"110"
+      "region": "110"
     },
     {
       "id": "529",
       "denomination": "تزنيت",
       "nombre_administrations": "26",
       "categorie": "1",
-      "region":"110"
+      "region": "110"
     },
     {
       "id": "525",
       "denomination": "إنزكان-ايت ملول",
       "nombre_administrations": "7",
       "categorie": "1",
-      "region":"110"
+      "region": "110"
     },
     {
       "id": "472",
       "denomination": "بنسليمان",
       "nombre_administrations": "16",
       "categorie": "1",
-       "region":"111"
+      "region": "111"
     },
     {
       "id": "473",
       "denomination": "سطات",
       "nombre_administrations": "47",
       "categorie": "1",
-       "region":"111"
+      "region": "111"
     },
     {
       "id": "475",
       "denomination": "برشيد",
       "nombre_administrations": "23",
       "categorie": "1",
-       "region":"111"
+      "region": "111"
     }
   ],
-  "provinces":[
+  "provinces": [
     {
       "id": "2001",
       "denomination": " جماعة آملن",
       "externe": "0",
       "categorie": null,
-      "subRegion":"529"
+      "subRegion": "529"
     },
     {
       "id": "2046",
       "denomination": " جماعة أربعاء  رسموكة",
       "externe": "0",
       "categorie": null,
-      "subRegion":"529"
+      "subRegion": "529"
     },
     {
       "id": "2031",
       "denomination": " جماعة أربعاء أيت أحمد",
       "externe": "0",
       "categorie": null,
-      "subRegion":"529"
+      "subRegion": "529"
     },
     {
       "id": "3240",
       "denomination": " جماعة أديس",
       "externe": "0",
       "categorie": null,
-      "subRegion":"492"
+      "subRegion": "492"
     },
     {
       "id": "3255",
       "denomination": " جماعة أكينان",
       "externe": "0",
       "categorie": null,
-      "subRegion":"492"
+      "subRegion": "492"
     },
     {
       "id": "3237",
       "denomination": " جماعة أم الكردان",
       "externe": "0",
       "categorie": null,
-      "subRegion":"492"
+      "subRegion": "492"
     },
     {
       "id": "5493",
       "denomination": " جماعة أولاد علي منصور",
       "externe": "0",
       "categorie": null,
-      "subRegion":"472"
+      "subRegion": "472"
     },
     {
       "id": "5484",
       "denomination": " جماعة احلاف",
       "externe": "0",
       "categorie": null,
-      "subRegion":"472"
+      "subRegion": "472"
     },
     {
       "id": "5487",
       "denomination": " جماعة الردادنة أولاد مالك",
       "externe": "0",
       "categorie": null,
-      "subRegion":"472"
+      "subRegion": "472"
     },
     {
       "id": "5328",
       "denomination": " جماعة أولاد افريحة",
       "externe": "0",
       "categorie": null,
-      "subRegion":"473"
+      "subRegion": "473"
     },
     {
       "id": "5346",
       "denomination": " جماعة أولاد الصغير",
       "externe": "0",
       "categorie": null,
-      "subRegion":"473"
+      "subRegion": "473"
     },
     {
       "id": "5262",
       "denomination": " جماعة أولاد امحمد",
       "externe": "0",
       "categorie": null,
-      "subRegion":"473"
+      "subRegion": "473"
+    }
+  ],
+  "domains": [
+    {
+      "id": "001",
+      "title": "المجال 1"
+    },
+    {
+      "id": "002",
+      "title": "المجال 2"
+    },
+    {
+      "id": "003",
+      "title": "المجال 3"
+    }
+  ],
+  "subDomains":[
+    {
+      "id":"011",
+      "title":"المجال الفرعي 1-1",
+      "domain":"001"
+    },
+    {
+      "id":"012",
+      "title":"المجال الفرعي 1-2",
+      "domain":"001"
+    },
+    {
+      "id":"013",
+      "title":"المجال الفرعي 1-3",
+      "domain":"001"
+    },
+    {
+      "id":"014",
+      "title":"المجال الفرعي 2-1",
+      "domain":"002"
+    },
+    {
+      "id":"015",
+      "title":"المجال الفرعي 2-2",
+      "domain":"002"
+    },
+    {
+      "id":"016",
+      "title":"المجال الفرعي 2-3",
+      "domain":"002"
+    },
+    {
+      "id":"017",
+      "title":"المجال الفرعي 3-1",
+      "domain":"003"
+    },
+    {
+      "id":"018",
+      "title":"المجال الفرعي 3-2",
+      "domain":"003"
+    },
+    {
+      "id":"019",
+      "title":"المجال الفرعي 3-3",
+      "domain":"003"
     }
   ]
 }
