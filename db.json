@@ -170,70 +170,62 @@
   ],
   "secteurs": [
     {
-      "id":"n1",
+      "id": "n1",
       "categories": ["central", "regional"],
+      "subAdminId": "15",
       "secteurDetails": [
         {
           "id": "sa01",
           "denomination": "الكتابة العامة",
-          "subAdminId": "15",
           "category": "central"
         },
         {
           "id": "sa02",
           "denomination": "المجلس الوطني للاسكان",
-          "subAdminId": "15",
           "category": "central"
         },
         {
           "id": "sa03",
           "denomination": "مديرية الانعاش العقاري",
-          "subAdminId": "15",
           "category": "central"
         },
         {
           "id": "sa04",
           "denomination": "المديرية الجهوية لجهة فاس مكناس",
-          "subAdminId": "15",
           "category": "regional"
         },
         {
           "id": "sa05",
           "denomination": "المديرية الجهوية لجهة فاس مكناس",
-          "subAdminId": "15",
           "category": "regional"
         },
         {
           "id": "sa06",
           "denomination": "المديرية الجهوية لجهة طنجة تطوان الحسيمة",
-          "subAdminId": "15",
           "category": "regional"
         }
       ]
     },
     {
-      "id":"n2",
+      "id": "n2",
       "categories": ["central"],
+      "subAdminId": "18",
       "secteurDetails": [
         {
           "id": "sa07",
           "denomination": "مديرية الشؤون القانونية",
-          "subAdminId": "18",
           "category": "central"
         },
         {
           "id": "sa08",
           "denomination": "مديرية الموارد البشرية و الوسائل العامة",
-          "subAdminId": "18",
           "category": "central"
         },
         {
           "id": "sa09",
           "denomination": "مديرية إعداد التراب",
-          "subAdminId": "18",
           "category": "central"
         }
-       
       ]
     }
   ],
